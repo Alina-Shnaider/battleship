@@ -64,9 +64,10 @@ console.log(readField2);
 function fire() {
   // здесь код, который меняет игровое поле после выстрела
 
+
 }
 
-function showBattlefield(table) {
-  // здесь код, который показывает игровое поле в консоли
-  console.log(table);
-}
+
+
+
+
